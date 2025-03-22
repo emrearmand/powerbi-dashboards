@@ -11,7 +11,8 @@ Repo ini berisi dashboard Power BI untuk analisis data. Saat ini mencakup:
 - `supermarket_sales_rhey.pbix` → Dashboard analisis penjualan supermarket
 
 ## 📷 Preview
-(Tambahkan screenshot dashboard di sini jika ada)
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/122c1e03-2ea1-4168-a408-96ed48d1a3c2" />
+
 
 ## 🛠 Tools
 - Power BI Desktop
